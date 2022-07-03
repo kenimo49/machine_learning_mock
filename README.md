@@ -1,0 +1,2 @@
+# machine_learning_mock
+機械学習の様々なモデルの検証のためのリポジトリ
